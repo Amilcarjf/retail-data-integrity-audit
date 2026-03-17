@@ -1,0 +1,11 @@
+## requirements.txt
+
+También te conviene dejar uno simple:
+
+```txt
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
